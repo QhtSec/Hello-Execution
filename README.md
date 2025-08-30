@@ -7,7 +7,7 @@ It focuses on:
 - **Blacklist matches**  known attacker tools (e.g., Anydisk, PsExec ...).
 - **Suspicious paths** (e.g., `Downloads`, `Temp`, `Public`).
 
-The script supports multiple input formats (TXT, CSV, TSV, JSONL) and outputs both **detailed results** and a **summary report** to make compromise assessments easier on large environments.
+The script supports multiple input formats (TXT, CSV, TSV, JSONL) and outputs both **detailed results** and a **summary report** to make compromise assessments (CA) easier on large environments.
 
 ---
 
