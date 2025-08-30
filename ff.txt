@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Microsoft Intune Management Extension\Microsoft.Management.Services.IntuneWindowsAgent.exe
+C:\Windows\System32\ah.exe
+C:\Windows\System32\conhost.exe
+C:\Users\Public\faisal.exe
+C:\Program Files\Fortinet\FortiEDR\FortiEDRAvScanner.exe
+C:\Windows\System32\saad.exe
+C:\Windows\System32\cfmd.exe
+C:\Windows\System32\dffns.exe
+C:\Windows\Temp\dfffns.exe
+C:\Windows\temp\dssns.exe
+C:\Windows\Temp\bdSFX2\x64\uninstalltool.exe
+C:\Windows\System32\dns.exe

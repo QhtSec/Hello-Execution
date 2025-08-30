@@ -1,0 +1,13 @@
+public
+Public
+downloads
+desktop
+documents
+appdata
+roaming
+temp
+startup
+recycle.bin
+perflogs
+inetpub
+wwwroot
